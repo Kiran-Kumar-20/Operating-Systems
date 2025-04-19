@@ -112,7 +112,3 @@ The RTOS ensures:
 - Enable REST API data ingestion
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
